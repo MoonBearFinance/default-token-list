@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wrapped BNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/binance/info/logo.png"
+  },
+  {
+    "name": "Binance-Peg BUSD",
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/binance/assets/BUSD-BD1/logo.png"
+  },
+  {
+    "name": "MoonBear.finance",
+    "address": "0xe2997ae926C7a76aF782923a7fEf89f36d86C98F",
+    "symbol": "MBF",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": "https://moonbear.finance/assets/logo/logo.png"
+  }
+]
